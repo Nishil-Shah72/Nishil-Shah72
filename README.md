@@ -124,10 +124,10 @@ LinkedIn:
 `https://linkedin.com/in/YOUR_LINKEDIN_USERNAME`
 
 Email:
-`your.email@example.com`
+'shahnishil20@gmail.com'
 
 GitHub:
-`https://github.com/YOUR_USERNAME`
+`https://github.com/Nishil-Shah72
 
 ---
 
